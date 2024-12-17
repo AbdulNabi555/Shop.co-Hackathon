@@ -130,6 +130,6 @@ This project is licensed under the MIT License - see the [LICENSE](https://opens
 
 Feel free to reach out to:
 
-- **Name**: Taha Siddiqui
-- **Email**: [siddiquit794@gmail.com](mailto:msiddiquit794@gmail.com)
-- **GitHub**: [https://github.com/tahasidd09](https://github.com/tahasidd09)
+- **Name**: Abdul Nabi
+- **Email**: [niazlaghari546@gmail.com](mailto:niazlaghari546@gmail.com)
+- **GitHub**: [https://github.com/AbdulNabi555](https://github.com/AbdulNabi555)
